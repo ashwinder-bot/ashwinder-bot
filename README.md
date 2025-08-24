@@ -27,49 +27,60 @@
 
 ### 🎨 Frontend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html" height="35"/> **HTML5**  
+  <img src="https://skillicons.dev/icons?i=css" height="35"/> **CSS3**  
+  <img src="https://skillicons.dev/icons?i=js" height="35"/> **JavaScript (ES6+)**  
+  <img src="https://skillicons.dev/icons?i=react" height="35"/> **React.js**  
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35"/> **TailwindCSS**  
+  <img src="https://skillicons.dev/icons?i=figma" height="35"/> **Figma (UI/UX)**  
+  <img src="https://skillicons.dev/icons?i=ejs" height="35"/> **EJS Templates**  
 </p>
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js, TailwindCSS  
-- EJS, UI/UX (Figma)  
 
 ---
 
 ### ⚙️ Backend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35"/> **Node.js**  
+  <img src="https://skillicons.dev/icons?i=express" height="35"/> **Express.js**  
+  <img src="https://skillicons.dev/icons?i=python" height="35"/> **Python**  
+  <img src="https://skillicons.dev/icons?i=flask" height="35"/> **Flask**  
+  <img src="https://skillicons.dev/icons?i=django" height="35"/> **Django**  
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35"/> **FastAPI**  
+  <img src="https://skillicons.dev/icons?i=php" height="35"/> **PHP**  
 </p>
-- Node.js, Express.js  
-- Python (Flask, Django, FastAPI)  
-- PHP  
 
 ---
 
 ### 🧠 AI / Machine Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python" height="35"/> **NumPy, Pandas, Matplotlib, Scikit-learn**  
+  <img src="https://skillicons.dev/icons?i=pytorch" height="35"/> **PyTorch**  
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="35"/> **TensorFlow**  
 </p>
-- Python Libraries → NumPy, Pandas, Matplotlib, Scikit-learn  
-- Deep Learning → PyTorch, TensorFlow  
-- Data Analysis & Visualization  
 
 ---
 
 ### 🛠️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35"/> **MySQL**  
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35"/> **MongoDB**  
+  <img src="https://skillicons.dev/icons?i=sqlite" height="35"/> **SQLite**  
 </p>
-- MySQL, MongoDB, SQLite  
 
 ---
 
 ### 🚀 Deployment & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,postman,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="35"/> **Vercel**  
+  <img src="https://skillicons.dev/icons?i=netlify" height="35"/> **Netlify**  
+  <img src="https://skillicons.dev/icons?i=render" height="35"/> **Render**  
+  <img src="https://skillicons.dev/icons?i=docker" height="35"/> **Docker**  
+  <img src="https://skillicons.dev/icons?i=postman" height="35"/> **Postman**  
+  <img src="https://skillicons.dev/icons?i=git" height="35"/> **Git**  
+  <img src="https://skillicons.dev/icons?i=github" height="35"/> **GitHub**  
+  <img src="https://skillicons.dev/icons?i=linux" height="35"/> **Linux**  
+  <img src="https://skillicons.dev/icons?i=vscode" height="35"/> **VS Code**  
 </p>
-- Vercel, Netlify, Render  
-- Docker, Postman, Git & GitHub  
-- Linux, VS Code, Jupyter  
 
 ---
 
