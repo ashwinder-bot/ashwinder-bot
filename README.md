@@ -1,78 +1,79 @@
-<h1 align="center">🚀 Ashwinder Singh</h1>
-<h3 align="center">AI/ML Engineer | Backend Developer | Full-Stack Web Developer ⚡</h3>
+<h1 align="center">👋 Hey, I'm Ashwinder Singh</h1>
+<h3 align="center">🚀 AI/ML Engineer | Backend Developer | Creative Web Dev</h3>
 
 ---
 
-## 💫 About Me:
-- 🧑‍💻 Advanced in **AI/ML & Deep Learning**  
-- 🔥 Skilled in **Backend Development (FastAPI, Django, Flask, Node.js, Express.js)**  
-- 🤝 Looking to collaborate on **AI/ML + Full-Stack projects**  
-- 🎯 Goal: Build scalable apps & deploy AI into production  
+## 💫 About Me
+- 🔭 Currently diving deep into **AI/ML + Backend Development**
+- 💡 Passionate about **building scalable systems & intelligent apps**
+- 🤝 Open to collaborate on **AI, ML, Web & Open-Source Projects**
+- ⚡ Fun fact: I turn ☕ into clean & creative code
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/ashwinder-bot" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.instagram.com/ashwinder_7/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="mailto:singhashwinder19@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://x.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.instagram.com/ashwinder_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:singhashwinder19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Tech Stack
 
 ### 🎨 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" height="45"/>
 </p>
+<p align="center">HTML5 • CSS3 • JavaScript • React.js • TailwindCSS • Figma</p>
 
-### ⚙️ Backend & APIs
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,php" />
-</p>
+---
 
-### 🧠 AI / ML / Data
+### ⚙️ Backend & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,php" height="45"/>
 </p>
+<p align="center">Node.js • Express.js • FastAPI • Django • Flask • PHP</p>
+
+---
+
+### 🧠 AI / ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,mongodb" height="45"/>
+</p>
+<p align="center">Python • PyTorch • TensorFlow • MySQL • MongoDB</p>
+
+---
 
 ### 🛠️ DevOps & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,postman,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,linux,vscode" height="45"/>
+</p>
+<p align="center">Docker • Postman • Git • GitHub • Linux • VS Code</p>
+
+---
+
+## 📂 Featured Projects
+- 🎬 **Netflix UI Clone** → Fully Responsive Netflix Frontend Clone  
+- 🍿 **Cineverse** → Movie Review Website  
+- 📈 **Stock Market Dashboard** → Full-stack real-time stock & company analysis  
+- 🛒 **Grocery Management System** → Python + Tkinter + SQL project  
+- 🎉 **College Event Management System** → Java Swing + SQLite (feature-rich)  
+- 🔐 **Online Payment Fraud Detection** → ML-based security project  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinder-bot&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinder-bot&layout=compact&theme=radical" alt="langs" height="165"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-- **[Online Payment Fraud Detection](https://github.com/ashwinder-bot/ONLINE-PAYMENT-FRAUD-DETECTION)** – ML model for fraud detection 🧠  
-- **[Grocery Management System](https://github.com/ashwinder-bot/GROCERY-MANAGMENT-SYSTEM)** – Tkinter + SQL Grocery app 🛒  
-- **[Netflix Clone](https://github.com/ashwinder-bot/NETFLIX-CLONE)** – Responsive Netflix-inspired UI 🎬  
-- **[Event Management System](https://github.com/ashwinder-bot/EVENT-MANAGMENT)** – Real-time event tracker 🎟️  
-- **[JurIsly](https://github.com/ashwinder-bot/JURISLY)** – AI-powered Lawyer WebApp ⚖️  
-- **[Stock Market Dashboard](https://github.com/ashwinder-bot/stock-market-dashboard)** – FastAPI + React stock tracker 📈  
-
----
-
-## 📊 GitHub Stats:
+## ✍️ Dev Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinder-bot&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinder-bot&theme=radical&hide_border=false" height="180"/>
-</p>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 🎶 Music Mood
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xvzm65tktwxx&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
