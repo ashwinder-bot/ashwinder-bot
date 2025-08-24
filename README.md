@@ -1,94 +1,88 @@
-<h1 align="center">⚡ Ashwinder Singh ⚡</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Backend+Developer;MERN+Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
-</h3>
+# 💫 About Me:
+👋 Hi, I'm **Ashwinder Singh**  
+🚀 AI/ML Enthusiast | Backend Developer | Web-Dev Explorer  
+💡 Currently mastering **Backend Development + AI/ML (Advanced)**  
+🤝 Looking to collaborate on **Python & AI/ML Projects**  
+📌 Always eager to learn, build, and innovate.  
 
 ---
 
-## 💫 About Me
-- 🚀 AI/ML & Backend Development Enthusiast  
-- 🧠 Skilled in **building scalable systems & intelligent apps**  
-- 🎯 Passionate about **AI, MERN stack & problem-solving**  
-- 🤝 Open for **collaborations in AI/ML, Backend & Full-Stack Projects**  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
+## 🌐 Socials
+<p align="left">
   <a href="https://www.instagram.com/ashwinder_7/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:singhashwinder19@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 </p>
 
 ---
 
-## 💻 Skills  
+## 🚀 Projects
+- 🎬 **Netflix-UI-Clone** (Fully Responsive)  
+- 🎥 **Cineverse** (Movie Review Website)  
+- 📊 **Stock Market Dashboard** (Full-Stack, Real-time)  
+- 🛒 **Grocery Management System** (Python + SQL + Tkinter)  
+- 🎉 **Event Management System** (Java + Swing + SQLite)  
+- 🤖 **Payment Fraud Detection System** (AI/ML)  
 
-### 🎨 Frontend Development  
+---
+
+# 🛠️ Tech Arsenal
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,ejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,figma" height="45"/>
+  <br/>
+  <b>HTML5 · CSS3 · JavaScript · React.js · TailwindCSS · Bootstrap · Figma</b>
 </p>
 
 ---
 
-### ⚙️ Backend Development  
+### ⚙️ Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,php,ejs" height="45"/>
+  <br/>
+  <b>Node.js · Express.js · FastAPI · Django · Flask · PHP · EJS</b>
 </p>
 
 ---
 
-### 🧠 AI / Machine Learning  
+### 🧠 AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-<p align="center">
-  <b>NumPy · Pandas · Matplotlib · Scikit-learn</b>
-</p>
-
----
-
-### 🛠️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
+  <br/>
+  <b>Python · TensorFlow · PyTorch · NumPy · Pandas · Matplotlib · Scikit-learn</b>
 </p>
 
 ---
 
-### 🚀 Deployment & Tools  
+### 🛠️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,postman,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="45"/>
+  <br/>
+  <b>MySQL · MongoDB · SQLite</b>
 </p>
 
 ---
 
-## 📂 Featured Projects
-- 🎬 **Netflix UI Clone** → Fully Responsive Frontend Clone  
-- 🍿 **Cineverse** → Movie Review Platform  
-- 📈 **Stock Market Dashboard** → Real-time company data & stock trends  
-- 🛒 **Grocery Management System** → Python + SQL + Tkinter  
-- 🎉 **College Event Management System** → Java Swing + SQLite (real-time updates)  
-- 🔐 **Online Payment Fraud Detection** → ML-based security system  
+### 🚀 Deployment & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,postman,git,github,linux,vscode" height="45"/>
+  <br/>
+  <b>Vercel · Netlify · Render · Docker · Postman · Git · GitHub · Linux · VS Code</b>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinder-bot&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinder-bot&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinder-bot&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinder-bot&theme=radical&hide_border=false" height="150"/>  
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinder-bot/ashwinder-bot/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
----
-
-## ✍️ Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
