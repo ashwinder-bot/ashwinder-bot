@@ -226,13 +226,7 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashwinder-bot&theme=onedark&column=7)](https://github.com/ashwinder-bot)
-
-</div>
 
 ---
 
